@@ -1,4 +1,4 @@
-import Discord from "../assets/discord.png";
+import Discord from "../assets/discord-logo-white.png";
 import Menu from "../assets/menu-icon.png";
 
 function Navbar() {

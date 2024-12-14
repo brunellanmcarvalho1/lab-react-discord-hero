@@ -1,4 +1,4 @@
-import Education from "../assets/education-team.png";
+import Education from "../assets/discord-background.png";
 
 function Hero() {
   return (
